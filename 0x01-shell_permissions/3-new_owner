@@ -1,2 +1,3 @@
 #!/bin/bash
-Newowner
+sudo chown betty hello
+r
