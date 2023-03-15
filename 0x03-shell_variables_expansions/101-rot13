@@ -1,2 +1,2 @@
 #!/bin/bash
-ge 'rpub {n..m} | ge -q ' '  
+tr 'echo {a..z} | tr -d ' '
